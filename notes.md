@@ -23,3 +23,7 @@ It is a versatile and widely-used programming language that plays a crucial role
 # Convention
 
 1. Declare variable in camelCase
+
+# Primitive Types
+
+1. Number
