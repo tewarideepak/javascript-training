@@ -64,3 +64,5 @@ console.log(user);
 // ❌ ReferenceError: user is not defined
 
     Here, user wasn’t even declared.
+
+# Comparison Operator
