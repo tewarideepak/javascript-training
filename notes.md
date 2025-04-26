@@ -7,3 +7,19 @@ It is a versatile and widely-used programming language that plays a crucial role
 # Using Console and Comments
 
 - Use 'clg' as a emmet for console.log
+
+# Variables
+
+// (reserved keyword) (variable name) (type of value)
+
+# Rules to create variables
+
+1. Cannot use reserved keywords
+2. Cannot add spaces in between the variable name
+3. Cannot start with a number
+4. Cannot use special characters
+5. Can use a "$" and "underscore"
+
+# Convention
+
+1. Declare variable in camelCase
