@@ -66,3 +66,5 @@ console.log(user);
     Here, user wasn’t even declared.
 
 # Comparison Operator
+
+# Strings
