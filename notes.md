@@ -78,3 +78,5 @@ console.log(user);
 # For Loop
 
 # While Loop
+
+# Do While Loop
