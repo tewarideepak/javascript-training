@@ -76,3 +76,5 @@ console.log(user);
 # Switch Statements
 
 # For Loop
+
+# While Loop
