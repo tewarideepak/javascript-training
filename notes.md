@@ -80,3 +80,5 @@ console.log(user);
 # While Loop
 
 # Do While Loop
+
+# Logical Operators
