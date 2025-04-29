@@ -72,3 +72,5 @@ console.log(user);
 # Type Conversion
 
 # Conditional Statements
+
+# Switch Statements
