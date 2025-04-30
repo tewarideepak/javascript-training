@@ -82,3 +82,5 @@ console.log(user);
 # Do While Loop
 
 # Logical Operators
+
+# Arrays
