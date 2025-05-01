@@ -111,3 +111,7 @@ console.log(user);
 - function name(parameterIfAny) {...}
 
 # Function Declaration & expression
+
+# Callback Function
+
+- When we provide function as an (argument) to other function that function is known as callback function.
