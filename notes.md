@@ -109,3 +109,5 @@ console.log(user);
 - Function increases readability.
 - DRY - Don't Repeat Yourself
 - function name(parameterIfAny) {...}
+
+# Function Declaration & expression
