@@ -115,3 +115,13 @@ console.log(user);
 # Callback Function
 
 - When we provide function as an (argument) to other function that function is known as callback function.
+
+# Scope
+
+- Scope in JS refers to the current context of code, which determines the accessibility of variables to JS.
+
+- There are two types of scopes in JS.
+
+- Global scope variables are those declared outside of a block.
+
+- Local scope variables are those declared inside of a block.
