@@ -129,3 +129,15 @@ console.log(user);
 # Method
 
 - In JavaScript, a method is a function that is associated with an object. It is a property of the object where the property's value is a function.
+
+# JSON
+
+In JavaScript, JSON stands for JavaScript Object Notation. It's a lightweight data format used for storing and exchanging data, especially between a client and server.
+
+{
+"name": "Alice",
+"age": 25,
+"isStudent": false
+}
+
+- JSON syntax is similar to JavaScript object literals but has stricter rules (e.g., property names must be in double quotes).
