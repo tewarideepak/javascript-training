@@ -125,3 +125,7 @@ console.log(user);
 - Global scope variables are those declared outside of a block.
 
 - Local scope variables are those declared inside of a block.
+
+# Method
+
+- In JavaScript, a method is a function that is associated with an object. It is a property of the object where the property's value is a function.
