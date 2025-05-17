@@ -143,3 +143,5 @@ In JavaScript, JSON stands for JavaScript Object Notation. It's a lightweight da
 - JSON syntax is similar to JavaScript object literals but has stricter rules (e.g., property names must be in double quotes).
 
 # Date & Time
+
+# setInterval & setTimeout
