@@ -145,3 +145,16 @@ In JavaScript, JSON stands for JavaScript Object Notation. It's a lightweight da
 # Date & Time
 
 # setInterval & setTimeout
+
+# Template Strings
+
+- Template strings (also called template literals) are a way to work with strings in a more flexible and readable manner.
+
+- Introduced in ES6 (ECMAScript 2015).
+
+- Syntax
+
+Use backticks ( ` ` ) instead of single ('') or double ("") quotes.
+
+const name = 'Alice';
+const message = `Hello, ${name}!`;
