@@ -158,3 +158,21 @@ Use backticks ( ` ` ) instead of single ('') or double ("") quotes.
 
 const name = 'Alice';
 const message = `Hello, ${name}!`;
+
+# Arrow Function
+
+- Arrow functions are a concise syntax for writing function expressions, introduced in ES6 (2015).
+
+- When to Use Arrow Functions
+
+1. Short, one-line functions
+
+2. Callbacks (e.g., map, filter, setTimeout)
+
+3. Functions where you want to inherit "this" from the surrounding context
+
+- When Not to Use
+
+1. When you need your own "this" (e.g., methods in classes/objects)
+
+2. When using "new" or working with "arguments"
