@@ -176,3 +176,7 @@ const message = `Hello, ${name}!`;
 1. When you need your own "this" (e.g., methods in classes/objects)
 
 2. When using "new" or working with "arguments"
+
+# Enhanced Object Literals
+
+Enhanced Object Literals make it easier and cleaner to define object properties and methods using shorthand syntax introduced in ES6 (ES2015).
