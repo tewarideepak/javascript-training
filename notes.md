@@ -180,3 +180,9 @@ const message = `Hello, ${name}!`;
 # Enhanced Object Literals
 
 Enhanced Object Literals make it easier and cleaner to define object properties and methods using shorthand syntax introduced in ES6 (ES2015).
+
+# Default Parameters
+
+- Default parameters allow you to set default values for function parameters.
+
+- If no argument is passed (or undefined is passed), the default value is used.
