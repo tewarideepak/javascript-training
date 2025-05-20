@@ -208,3 +208,9 @@ Enhanced Object Literals make it easier and cleaner to define object properties 
 const [a, b] = [1, 2];
 console.log(a); // 1
 console.log(b); // 2
+
+# Object Destructuring
+
+- A syntax to extract properties from objects into variables.
+
+- Introduced in ES6.
