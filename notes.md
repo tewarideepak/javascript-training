@@ -190,3 +190,11 @@ Enhanced Object Literals make it easier and cleaner to define object properties 
 # Spread Operators
 
 - It "spreads" or expands elements of an iterable (like arrays, objects, or strings) into individual elements.
+
+# Rest Operators
+
+- It "collects" multiple elements into a single array or object.
+
+- Opposite of the spread operator.
+
+- Commonly used in function parameters, array destructuring, and object destructuring.
