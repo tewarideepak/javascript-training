@@ -186,3 +186,7 @@ Enhanced Object Literals make it easier and cleaner to define object properties 
 - Default parameters allow you to set default values for function parameters.
 
 - If no argument is passed (or undefined is passed), the default value is used.
+
+# Spread Operators
+
+- It "spreads" or expands elements of an iterable (like arrays, objects, or strings) into individual elements.
