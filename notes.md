@@ -198,3 +198,13 @@ Enhanced Object Literals make it easier and cleaner to define object properties 
 - Opposite of the spread operator.
 
 - Commonly used in function parameters, array destructuring, and object destructuring.
+
+# Array Destructuring
+
+- A syntax to unpack values from arrays into separate variables.
+
+- Introduced in ES6.
+
+const [a, b] = [1, 2];
+console.log(a); // 1
+console.log(b); // 2
