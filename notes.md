@@ -270,3 +270,19 @@ for (let item of iterable) {
 }
 
 - item represents the value of each element, not the index/key.
+
+# forEach Method
+
+The forEach() method executes a provided callback function once for each element in an array.
+
+- 🧪 Syntax
+
+array.forEach(function(element, index, array) {
+// your code here
+});
+
+- element: Current element
+
+- index (optional): Current index
+
+- array (optional): The original array
