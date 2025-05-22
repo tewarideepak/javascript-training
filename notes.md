@@ -304,3 +304,19 @@ const newArray = array.map(function(element, index, array) {
 - array (optional): The original array
 
 - Returns: A new array with transformed values
+
+# filter Method
+
+The filter() method creates a new array with only the elements that pass a test (i.e., return true from the callback function).
+
+- 🧪 Syntax
+
+const newArray = array.filter(function(element, index, array) {
+return condition; // only elements that return true are kept
+});
+
+- element: Current element being processed
+
+- index (optional): Index of the current element
+
+- array (optional): The original array
