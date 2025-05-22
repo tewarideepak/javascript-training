@@ -222,3 +222,13 @@ Function destructuring refers to extracting values from arrays or objects passed
 # Nested Destructuring
 
 Nested destructuring allows you to extract values from deeply nested objects or arrays using a concise syntax.
+
+# Ternary Operators
+
+- The ternary operator is a shorthand way of writing an if...else statement.
+
+- It takes three operands (hence the name ternary).
+
+- 🧪 Syntax
+
+condition ? expressionIfTrue : expressionIfFalse
