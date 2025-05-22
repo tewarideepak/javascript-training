@@ -218,3 +218,7 @@ console.log(b); // 2
 # Function Destructuring
 
 Function destructuring refers to extracting values from arrays or objects passed as arguments into a function, directly within the function parameter list.
+
+# Nested Destructuring
+
+Nested destructuring allows you to extract values from deeply nested objects or arrays using a concise syntax.
