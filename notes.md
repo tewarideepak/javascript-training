@@ -286,3 +286,21 @@ array.forEach(function(element, index, array) {
 - index (optional): Current index
 
 - array (optional): The original array
+
+# map() Method
+
+The map() method creates a new array by calling a provided callback function on each element of an existing array.
+
+- 🧪 Syntax
+
+const newArray = array.map(function(element, index, array) {
+// return new value
+});
+
+- element: Current item
+
+- index (optional): Current index
+
+- array (optional): The original array
+
+- Returns: A new array with transformed values
