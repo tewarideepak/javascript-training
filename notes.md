@@ -232,3 +232,17 @@ Nested destructuring allows you to extract values from deeply nested objects or 
 - 🧪 Syntax
 
 condition ? expressionIfTrue : expressionIfFalse
+
+# for..in loop
+
+The for...in loop is used to iterate over the enumerable properties (keys) of an object.
+
+- 🧪 Syntax
+
+for (let key in object) {
+// code to execute
+}
+
+- key is the property name (as a string)
+
+- Use object[key] to access the value
