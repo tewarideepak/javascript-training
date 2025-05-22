@@ -246,3 +246,27 @@ for (let key in object) {
 - key is the property name (as a string)
 
 - Use object[key] to access the value
+
+# for..of loop
+
+The for...of loop is used to iterate over iterable objects like:
+
+    Arrays
+
+    Strings
+
+    Maps
+
+    Sets
+
+    NodeLists
+
+    etc.
+
+- 🧪 Syntax
+
+for (let item of iterable) {
+// code using item
+}
+
+- item represents the value of each element, not the index/key.
