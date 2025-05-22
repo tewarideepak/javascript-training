@@ -214,3 +214,7 @@ console.log(b); // 2
 - A syntax to extract properties from objects into variables.
 
 - Introduced in ES6.
+
+# Function Destructuring
+
+Function destructuring refers to extracting values from arrays or objects passed as arguments into a function, directly within the function parameter list.
